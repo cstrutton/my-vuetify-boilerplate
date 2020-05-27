@@ -1,7 +1,7 @@
 # My-Vue-Boilerplate
 
 ## Project setup
-I set up a new git repo on-line then clone this repo and push it to the new repo.
+I create a new empty git repo on-line then clone this repo and push it to the newly created repo.
 ```
 # git clone and assign new name
 git clone https://github.com/cstrutton/my-vuetify-boilerplate.git <new-name>
